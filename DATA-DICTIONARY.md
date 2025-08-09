@@ -1,5 +1,9 @@
 ## Key Data Fields & Business Terms
 
+This file contains the data fields used along with their business definitions. It explains the meaning, purpose, and context of each field to have a clear understanding before analysis.
+
+---
+
 **Average Rating**  
   The average customer rating given to an item.
 
