@@ -1,4 +1,4 @@
-## Business Requirements
+## Business Questions
 
 ### Q1. What is the Total Sales, Items Sold, Average Sales per Transaction, and Average Customer Rating?
 - **Purpose:** Provide a quick performance overview for management.
