@@ -17,8 +17,8 @@ Interactive **business intelligence dashboard** providing comprehensive **sales 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **Data Visualization**: Power BI / Tableau for interactive dashboard creation  
-- **Data Processing**: Excel / SQL for data cleaning and transformation  
+- **Data Visualization**: Power BI for interactive dashboard creation  
+- **Data Processing**: Excel for data cleaning and transformation  
 - **Design**: Custom color schemes and responsive layout design  
 - **Analytics**: Statistical analysis for trend identification and insights generation  
 
