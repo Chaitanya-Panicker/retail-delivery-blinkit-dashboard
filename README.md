@@ -52,3 +52,19 @@ With **$1.20M total sales**, **8.523K items sold**, and an **average rating of 4
 1. Clone the repository:  
    ```bash
    git clone <repo-url>
+2. Open Blinkit_Sales.pbix in Power BI Desktop.
+3. Use filters to drill down into outlet types and item categories.
+4. Hover over charts for tooltips with detailed values.
+4. Export filtered reports for presentations or decision-making.
+
+---
+
+## 📬 Contact  
+👤 **Your Name**  
+📧 your.email@example.com  
+🌐 [Your Portfolio Link]  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** — free to use, modify, and share with attribution. 
