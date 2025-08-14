@@ -1,5 +1,7 @@
 # 🛒 Blinkit Sales Dashboard 
 
+<img width="1364" height="767" alt="Screenshot 1" src="https://github.com/user-attachments/assets/84caa1ff-89bf-43b1-8f30-e0c865eb5e53" />
+
 ## 📖 Project Overview  
 Blinkit’s grocery delivery business thrives on speed, variety, and customer satisfaction. This project analyzes Blinkit sales data, transforming raw numbers into **interactive Power BI visuals** that uncover patterns in **product performance, outlet trends, and customer ratings**.  
 
