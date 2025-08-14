@@ -53,7 +53,7 @@ With **$1.20M total sales**, **8.523K items sold**, and an **average rating of 4
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/Chaitanya-Panicker/retail-delivery-blinkit-dashboard.git>
 2. Open Blinkit_Sales.pbix in Power BI Desktop.
 3. Use filters to drill down into outlet types and item categories.
 4. Hover over charts for tooltips with detailed values.
@@ -62,9 +62,9 @@ With **$1.20M total sales**, **8.523K items sold**, and an **average rating of 4
 ---
 
 ## 📬 Contact  
-👤 **Your Name**  
-📧 your.email@example.com  
-🌐 [Your Portfolio Link]  
+👤 **Chaitanya Panicker**  
+📧 chaitanya.panicker98@gmail.com  
+🌐 https://www.linkedin.com/in/chaitanyapanicker  
 
 ---
 
